@@ -13,3 +13,5 @@ Password: Azim1234
 Username: test@gmail.com
 
 Password: Test@123
+
+Don't Forget to Upload SQL folder inside DB !!  :)
